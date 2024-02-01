@@ -56,6 +56,19 @@ int domande()
         printf("Puoi rispondere solamente v o f, riprova\n");
         goto d4;
     }
+    // Il salario minimo è uno strumento efficace per ridurre la disoccupazione. f // 
+    // Il debito pubblico rappresenta la somma di tutti i debiti accumulati da un governo nel corso del tempo. v // 
+    // Il Pil è la somma di consumi, investimenti, spesa pubblica e esportazioni nette. v //
+    // La politica monetaria è gestita dal governo attraverso la regolamentazione delle tasse. f //
+    // Il deficit di bilancio si verifica quando il governo spende più di quanto guadagna. v //
+    // L'effetto a lungo termine dell'innovazione tecnologica è sempre positivo sull'economia. v //
+    // L'intervento governativo nell'economia è sempre negativo. f //
+    // L'economia di mercato è un sistema economico in cui il governo controlla l'allocazione delle risorse. f //
+    // Il "concetto di offerta e domanda" suggerisce che il prezzo di un bene è determinato dall'interazione tra l'offerta e la domanda. v //
+    // L'offerta è la quantità di un bene o servizio che i produttori sono disposti a vendere a un dato prezzo, v //
+    // Il Pil reale tiene conto delle variazioni dei prezzi nel tempo. f //
+    // Il mercato in concorrenza perfetta è caratterizzato da molti venditori e pochi acquirenti. f //
+    // L'inflazione si verifica quando il livello generale dei prezzi diminuisce nel tempo. f //
 }
 
 int main ()
